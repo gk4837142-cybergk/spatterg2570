@@ -1,0 +1,61 @@
+h1 {
+    color: blue
+}
+h3 {
+    color: hsl(4, 95%, 42%);
+}
+body {
+    background-image: url('html image/3TaaZPxqIZbAGz2LFvimQk.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    height: 50%;
+    background-size: 100% 150%;
+
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f1f1f1;
+}
+footer {
+    background-color: aquamarine;
+    font-size: 14px;
+    color: #555;
+}
+nav {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 90%;
+
+
+    a {
+        text-decoration: none;
+        cursor: pointer;
+        color: blue;
+    }
+    a:visited {
+        color: purple
+    }
+}
+a:hover {
+    color:blue
+}
+a:active {
+    color: red
+}
+header {
+    background-color: aquamarine;
+    padding: 20px0;
+    text-align: center;     
+}
+.nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-links li {
+    padding: 0 20px;
+}   margin-bottom: 20px;
